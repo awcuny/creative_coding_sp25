@@ -7,22 +7,23 @@ Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu 
 [YouTube Channel](https://www.youtube.com/playlist?list=PLKcBOqBHPjvmqJ7xym6wMWCTyDyFTtYV5)
 
 ### Class Schedule
-Week 1, January 30, [Live Zoom Call](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
-Week 2, February 6
-Week 3, February 13
-Week 4, February 20
-Week 5, February 27
-Week 6, March 5
-Week 7, March 12, Live Zoom Call
-Week 8, March 19
-Week 9, March 26
-Week 10, April 2
-Week 11, April 9
-Week 12, April 16
-Spring Recess, April 23 (no class)
-Week 13, April 30
-Week 14, May 7, Live Zoom Call
-Reading Day, May 14 (no class)
+
+- Week 1, January 30, [Live Zoom Call](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
+- Week 2, February 6
+- Week 3, February 13
+- Week 4, February 20
+- Week 5, February 27
+- Week 6, March 5
+- Week 7, March 12, Live Zoom Call
+- Week 8, March 19
+- Week 9, March 26
+- Week 10, April 2
+- Week 11, April 9
+- Week 12, April 16
+- Spring Recess, April 23 (no class)
+- Week 13, April 30
+- Week 14, May 7, Live Zoom Call
+- Reading Day, May 14 (no class)
 
 ### Course Description
 The computer is an amazing tool that most designers really do not use to its full potential. The software applications that are used by the masses are just that, created for the masses and are not perfect for every project. In this class we will be looking at using computational algorithms as a tool to create beautifully designed visual graphics.
@@ -56,23 +57,23 @@ Two (unexcused) absences result in grade drop and four absences result in a fail
 or early departure from class (15 minutes) is the equivalent of ½ absence.
 
 ### Grading
-To earn an A
-All class work and homework is excellent. Projects have been completed when assigned. The work shows a development and understanding of the principles discussed in class. It is presented immaculately. There is regular and prompt attendance and participation during critiques and an enthusiasm toward the material being presented throughout the semester. This is exceptional work.
-To earn a B
-All assigned work completed in a thorough manner. An understanding of the principles and
+- To earn an A
+ - All class work and homework is excellent. Projects have been completed when assigned. The work shows a development and understanding of the principles discussed in class. It is presented immaculately. There is regular and prompt attendance and participation during critiques and an enthusiasm toward the material being presented throughout the semester. This is exceptional work.
+- To earn a B
+ - All assigned work completed in a thorough manner. An understanding of the principles and
 lessons covered in class is evident. The student comes to class regularly and on time and
 participates in critiques and discussions. This is better than average work.
-To earn a C
-Most class assignments and homework have been completed. Regular attendance but minimal
+- To earn a C
+ - Most class assignments and homework have been completed. Regular attendance but minimal
 or negative class participation. There is understanding of most of what’s being presented in
 class. This student shows some interest in the course content. This is average work.
-To earn a D
-Most class assignments and homework have not been completed. Marginal effort made to
+- To earn a D
+ - Most class assignments and homework have not been completed. Marginal effort made to
 understand the course objectives and very little or negative participation on behalf of the
 student. Spotty attendance. This means below average work.
-To earn an F
-Student has not completed 1⁄3 of the course work and has missed too many classes. This
+- To earn an F
+ - Student has not completed 1⁄3 of the course work and has missed too many classes. This
 student doesn’t participate or has a bad attitude and shows no interest. It means not enough
 work, attendance, and/or effort to pass the class.
-W Withdrawal.
-If a student officially withdraws from a class during the add/drop period it will be deleted from his/her permanent record.
+- W Withdrawal.
+ - If a student officially withdraws from a class during the add/drop period it will be deleted from his/her permanent record.
