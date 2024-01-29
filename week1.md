@@ -11,8 +11,9 @@ For our first class, we will go over a brief history of computer programming, ho
 
 ### Resources
 1. [p5js Editor](http://editor.p5js.org/)
-2. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week01.pdf)
-3. [p5js Web Editor Demo with Professor Danne Woo](https://www.youtube.com/watch?v=edJKmfNq8Xg)
+2. [Professor Antonius's Lecture Slides](https://docs.google.com/presentation/d/1efzNpJpwHdZ4U0NdgKh8W72eUMDJI1gUNuX5NtvGVzg/edit?usp=sharing)
+3. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week01.pdf)
+4. [p5js Web Editor Demo with Professor Danne Woo](https://www.youtube.com/watch?v=edJKmfNq8Xg)
 
 ### In-Class Assignment
 1. Sign up for Slack
