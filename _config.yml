@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: BDHU/minimalist
 title: Creative Coding Spring 2024 Online
 description: The website for Creative Coding Spring 2024 Online
 
