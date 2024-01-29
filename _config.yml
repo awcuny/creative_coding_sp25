@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Creative Coding Spring 2024 Online
 description: The website for Creative Coding Spring 2024 Online
+
+navigation:
+  - name: Home Page
+    link: ./
+  - name: Sample
+    link: ./another-page.html
