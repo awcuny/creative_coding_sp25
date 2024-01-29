@@ -24,6 +24,6 @@ For our first class, we will go over a brief history of computer programming, ho
 3. Post your favorite example on Slack and be prepared to discuss it next week.
 4. Watch Dan Shiffman's video on [Programming with p5js](https://www.youtube.com/watch?v=yPWkPOfnGsw).
 5. Watch Dan Shiffman's video on the [p5js web editor](https://www.youtube.com/watch?v=MXs1cOlidWs).
-6. Watch Prof. Danne Woo's [week 2 lecture video](http://creativecode.dannewoo.com/week-02-forms-shapes-and-variables/) and come with questions to our Slack class next week.
+6. Watch Prof. Danne Woo's [week 2 lecture video](https://youtu.be/fbWIolOqIqM) and come with questions to our Slack class next week.
 
 [back](./)
