@@ -8,7 +8,7 @@ title: Creative Coding Spring 2024 Online
 description: The website for Creative Coding Spring 2024 Online
 
 sidebar:
-  - name: Home Page
+  - name: Home Page (syllabus)
     link: ./
-  - name: Sample
-    link: ./another-page.html
+  - name: Week 01: Intro to Creative Coding and p5js
+    link: ./week1
