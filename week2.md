@@ -67,13 +67,13 @@ Some concepts to learn:
 2. [Bezier Curve Game](http://bezier.method.ac/)
 
 ### In-Class Assignment
-1. Sign up for Slack
-2. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
+1. Look over every link above to read what those functions do.
+2. Sign up for Slack (some of you still haven't done this!)
+3. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
 
 ### Homework
 1. Use p5js and the shape functions you learned today to design a movie poster for your favorite film or TV series. You can only use grayscale values and you may not use text.
 2. Have the link to your p5js sketch ready to share on Slack during our next class.
-3. Look at some examples on the [p5js examples page](https://p5js.org/examples/).
 4. Watch the [video of the Week 3 lecture](https://youtu.be/bF6KY3pBD_o?si=njypUhinrfRr3AZq) and come with questions to our Slack class next week.
 
 [back](./)
