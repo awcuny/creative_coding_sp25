@@ -12,3 +12,5 @@ sidebar:
     link: ./
   - name: Week 01 - Intro to Creative Coding and p5js
     link: ./week1
+  - name: Week 02 - Forms, Shapes and Variables
+    link: ./week2
