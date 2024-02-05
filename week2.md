@@ -51,7 +51,7 @@ Global Variables
 - [displayHeight](https://p5js.org/reference/#/p5/displayHeight)
 
 Some concepts to learn:
-- Camel Case - CamelCase is a naming convention used in computer programming and coding where multiple words are combined, and each word, except the first one, is capitalized without any spaces or punctuation. The resulting name resembles the humps on a camel's back, hence the term "CamelCase." This convention is often employed for variable names, function names, and identifiers in programming languages. For example, "camelCaseExample" is a representation of CamelCase.
+- camelCase - camelCase is a naming convention used in computer programming and coding where multiple words are combined, and each word, except the first one, is capitalized without any spaces or punctuation. The resulting name resembles the humps on a camel's back, hence the term "camelCase." This convention is often employed for variable names, function names, and identifiers in programming languages. For example, "camelCaseExample" is a representation of camelCase.
 - Function - In JavaScript, a function is a block of reusable code that performs a specific task. Functions allow you to break down your program into smaller, manageable pieces, making your code more organized and easier to understand. 
 - Variable - In programming, a variable is a container or symbolic name for a value that can change during the execution of a program. It is a fundamental concept in coding, allowing developers to store and manipulate data. 
 - Loop - In programming, a loop is a structure that allows a set of instructions to be repeated multiple times. It's a fundamental concept that helps automate repetitive tasks. In p5js, draw is a loop that repeats endlessly unless you change the default function settings.
@@ -61,6 +61,7 @@ Some concepts to learn:
 2. [p5js references](https://p5js.org/reference/)
 3. [Week 2 Lecture Video](https://youtu.be/fbWIolOqIqM)
 4. [Professor Danne Woo's lecture slides for Week 2](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week02.pdf)
+5. [Prof. Antonius's tutorial for drawing with p5js](https://docs.google.com/presentation/d/1QnlE1253XB1vqCcaWITMqC6j965tZcYXy2mowgDA0FQ/edit?usp=sharing)
 
 ### Suggested reading and links
 1. [Programming Design Systems, Chapter Shapes by Rune Madsen](https://programmingdesignsystems.com/shape/custom-shapes/index.html)
