@@ -40,7 +40,7 @@ By the end of the week, please cover these coding examples and functions:
 - [<=](https://p5js.org/reference/#/p5/%3C=)
 - [==](https://processing.org/reference/equality.html)
 - [!=](https://processing.org/reference/inequality.html)
-- [||](https://processing.org/reference/logicalOR.html)
+- [logical OR](https://processing.org/reference/logicalOR.html)
 - [&&](https://processing.org/reference/logicalAND.html)
 - [!](https://processing.org/reference/logicalNOT.html)
 
