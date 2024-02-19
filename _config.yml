@@ -16,3 +16,5 @@ sidebar:
     link: ./week2
   - name: Week 03 - Computational Color and Export
     link: ./week3
+  - name: Week 04 - Repetition, Decisions and Randomization
+    link: ./week4
