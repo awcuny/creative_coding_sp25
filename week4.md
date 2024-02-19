@@ -9,8 +9,9 @@ We are meeting over Slack this week.
 ### Lecture
 This week, we will discuss repetition and patterns in nature and art, and how to replicate them in p5js using **for loops**. We will also explore making decisions within **for loops** using **if/else statements**. Finally, we'll examine how to incorporate organized **randomization** and **Perlin Noise** to introduce random elements into your p5js sketch.
 
-### Prof Danne Woo's Lecture Slides
-- [Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week04.pdf)
+### Lecture Slides
+- [Prof Danne Woo's Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week04.pdf)
+- [Prof. Antonius W's JavaScript Logic Addendum](https://docs.google.com/presentation/d/16I28UfhgwojjMt64t4LPptjOdL4H-j39O3EW1yLE_fk/edit?usp=sharing)
 
 By the end of the week, please cover these coding examples and functions:
 
