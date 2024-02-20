@@ -83,7 +83,10 @@ Professor Christopher Hanusa shares his math inspired artwork and talks about th
 3. Share your new creation to the class.
 
 ### In Class Coding Examples
-To be updated during class
+1. [Rotating Hearts Debug Dejah](https://editor.p5js.org/awcuny/sketches/phOUsqz-z)
+2. [Debug Lin Fang](https://editor.p5js.org/awcuny/sketches/2lTjcfzwP)
+3. [Debug Siliang](https://editor.p5js.org/awcuny/sketches/IasCGoj-c)
+4. [Sin and Cos polygons closed](https://editor.p5js.org/awcuny/sketches/CG8tdNHIb)
 
 ### Homework
 1. Use p5js to design a pattern for gift wrapping paper. You must use a **for loop, if statements, and either the random or noise function.**  
