@@ -88,6 +88,6 @@ To be updated during class
 ### Homework
 1. Use p5js to design a pattern for gift wrapping paper. You must use a **for loop, if statements, and either the random or noise function.**  
 2. Be prepared to share your looping designs with the class on Slack next week.
-3. Watch the lecture video for [Week 5](http://creativecode.dannewoo.com/week-05-functions-classes-typography/) on Functions, Classes, and Typography.
+3. Watch the lecture video for [Week 5](https://youtu.be/JxMa1Nt_5bQ?si=acRlEClfinWo_wcT) on Functions, Classes, and Typography.
 
 [back](./)
