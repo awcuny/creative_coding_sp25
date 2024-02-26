@@ -32,6 +32,7 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Simple Class](https://editor.p5js.org/dannewoo/sketches/Zsud13FMv)
 - [Rule-Based Type System](https://editor.p5js.org/dannewoo/sketches/nvXM5aRNH)
 - [Outline-Based Type System](https://editor.p5js.org/dannewoo/sketches/fKC9KOxnn)
+- [P5 Font working example](https://editor.p5js.org/awcuny/sketches/QiRuhAhP6)
 
 ### In Class
 1. We will review the patterns you made using for loops, if statements and either the random or the noise function. Be prepared to talk about it.
