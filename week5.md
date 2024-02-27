@@ -38,7 +38,8 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Creating a triangle](https://editor.p5js.org/awcuny/sketches/fU42-KBa6)
 - [P5 Font](https://editor.p5js.org/awcuny/sketches/QiRuhAhP6)
 - [Check if the mouse is inside a rectangle](https://editor.p5js.org/awcuny/sketches/aOEoQI1wu)
-- [Push and Pop example](https://editor.p5js.org/awcuny/sketches/7_V-BDDQo) 
+- [Push and Pop example](https://editor.p5js.org/awcuny/sketches/7_V-BDDQo)
+- [Using modulo to make even rows offset](https://editor.p5js.org/awcuny/sketches/N3tlimL9t)
 
 ### In Class
 1. We will review the patterns you made using for loops, if statements and either the random or the noise function. Be prepared to talk about it.
