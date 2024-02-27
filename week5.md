@@ -34,6 +34,12 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Outline-Based Type System](https://editor.p5js.org/dannewoo/sketches/fKC9KOxnn)
 - [P5 Font working example](https://editor.p5js.org/awcuny/sketches/QiRuhAhP6)
 
+### In Class Coding Examples
+- [Creating a triangle](https://editor.p5js.org/awcuny/sketches/fU42-KBa6)
+- [P5 Font](https://editor.p5js.org/awcuny/sketches/QiRuhAhP6)
+- [Check if the mouse is inside a rectangle](https://editor.p5js.org/awcuny/sketches/aOEoQI1wu)
+- [Push and Pop example](https://editor.p5js.org/awcuny/sketches/7_V-BDDQo) 
+
 ### In Class
 1. We will review the patterns you made using for loops, if statements and either the random or the noise function. Be prepared to talk about it.
 2. Sketch out a rule-based typeface with a pencil on paper. Take a picture of it. Once you have an idea of what to create, try and make A, B and C in p5js based on the rules you put together. Upload the photo of your sketch as well as the link to the p5js project to Slack.
