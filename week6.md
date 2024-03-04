@@ -72,19 +72,20 @@ var numbers = [
 2. We will talk about your midterms and what is expected of you.
 
 ### Homework / Midterm Assignment
+
 1. **Design a poster using p5.js** for your midterm due on week 7. You may choose to design a poster for **one of the following topics**:
-   1.1. A movie, short film, or TV series.
-   1.2. A book cover or advertising for a book.
-   1.3. An event such as a concert, festival, conference, or a performance.
-   1.4. A poster raising awareness about social issues, environmental causes, or community initiatives.
-   1.5. A poster for a sport event, team, or athlete.
-   1.6. A travel destination poster or showcasing a scenic location.
-   1.7. An informational educational poster, health and safety notices, or a public announcement.
+    - A movie, short film, or TV series.
+    - A book cover or advertising for a book.
+    - An event such as a concert, festival, conference, or a performance.
+    - A poster raising awareness about social issues, environmental causes, or community initiatives.
+    - A poster for a sport event, team, or athlete.
+    - A travel destination poster or showcasing a scenic location.
+    - An informational educational poster, health and safety notices, or a public announcement.
    
 2. You must follow every instruction listed or else we will deduct points.
-   2.1. Do not create an interactive poster yet. This is a design challenge, and I am looking to see what you can do with just the forms, shapes, and colors of your poster with code. No mouse interactions or keyboard interactions yet, please.
-   2.2. Do not create an animated poster. It must be still.
-   2.3. You must incorporate creating a class, using functions, and as many programming techniques covered so far this semester.
+    - Do not create an interactive poster yet. This is a design challenge, and I am looking to see what you can do with just the forms, shapes, and colors of your poster with code. No mouse interactions or keyboard interactions yet, please.
+    - Do not create an animated poster. It must be still.
+    - You must incorporate creating a class, using functions, and as many programming techniques covered so far this semester.
    
 3. Other than that, you have the creative freedom to design anything you wish. Enjoy the process and let your creativity shine!
 4. Be prepared to share your designs and code with the class during our next class - we will be meeting over Zoom.
