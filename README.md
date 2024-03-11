@@ -14,7 +14,7 @@ Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu 
 - Week 4, February 20
 - Week 5, February 27
 - Week 6, March 5
-- Week 7, March 12, Live Zoom Call
+- Week 7, March 12, [Live Zoom Call](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
 - Week 8, March 19
 - Week 9, March 26
 - Week 10, April 2
