@@ -25,7 +25,7 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Clock Example](https://editor.p5js.org/dannewoo/sketches/WTFKEsNxv)
 
 ### In Class
-1. We will review the p5 font homework you did last week - be ready to share!
+1. We will discuss [Rune Madsen's article on Meta-Design](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/).
 2. Please design an abstract clock with hours, minutes and seconds using p5js.
 
 ### Homework 
