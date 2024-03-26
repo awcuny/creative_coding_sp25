@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 09: Drawing and Interaction (Mouse)
+# Week 10: Interaction and Image Import
 
 We are meeting over Slack this week.
 
