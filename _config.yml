@@ -28,3 +28,5 @@ sidebar:
     link: ./week8
   - name: Week 09 - Drawing and Interaction (Mouse)
     link: ./week9
+  - name: Week 10 - Interaction and Image Import (Keyboard and Events)
+    link: ./week10
