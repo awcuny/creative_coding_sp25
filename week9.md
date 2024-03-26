@@ -27,7 +27,7 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Mouse Distance](https://editor.p5js.org/dannewoo/sketches/bDHfUhwdS)
 - [Mouse Easing](https://editor.p5js.org/dannewoo/sketches/tFG3VHXvJ)
 - [Mouse Speed](https://editor.p5js.org/dannewoo/sketches/APSirYLbq)
-- [Save on Key Pressed](https://editor.p5js.org/dannewoo/sketches/n_1tsy8mM)
+- [Save on Mouse Pressed](https://editor.p5js.org/dannewoo/sketches/n_1tsy8mM)
 - [GUI with Buttons](https://editor.p5js.org/dannewoo/sketches/NGX1I2Fnx)
 - [datGUI Interface](https://editor.p5js.org/dannewoo/sketches/d5B6yd4N3)
 
