@@ -11,6 +11,7 @@ This week, we'll delve into the history of drawing, spanning from ancient cave p
 
 - [Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week09.pdf)
 - [Lecture Video on YouTube](https://youtu.be/IKFoGM6bau8)
+- [Extra slides by Prof Antonius](https://docs.google.com/presentation/d/1S3TSS57eizLxIUuDC62yQgRDzr0bLG6Mg4YakWNsIiI/edit?usp=sharing)
 
 By the end of the week, please cover these coding examples and helpful links:
 
