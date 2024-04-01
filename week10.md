@@ -10,7 +10,6 @@ We are meeting over Slack this week.
 This week, our focus remains on interaction, with a particular emphasis on keyboard and click events. Additionally, we'll delve into the history of keyboards to understand their evolution. Later, we'll pivot our attention to importing digital images into p5.js and explore the distinctions between film and digital photography.
 - [Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week10.pdf)
 - [Lecture Video on YouTube](https://youtu.be/gxZFk7M6kNo?si=Kfmrt2CuvoHCJAWa)
-- Another slide deck to be released closer to class date.
 
 By the end of the week, please cover these coding examples and helpful links:
 
@@ -31,7 +30,7 @@ By the end of the week, please cover these coding examples and helpful links:
 
 ### In Class
 1. We will review the homework you did - Create your own custom design software. Have at least two buttons to switch between two features. Different brush styles, colors, movements, etc. Use either the GUI with Buttons example of the datGUI Interface example as reference. Be ready to share!
-2. Another assignment to be announced closer to the class date.
+2. We will be ending class earlier this week. No other in-class assignment is due. But please review and do your homework for next week!
 
 ### Homework 
 
