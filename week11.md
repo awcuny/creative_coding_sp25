@@ -26,11 +26,11 @@ By the end of the week, please cover these coding examples and helpful links:
 1. We will review the homework you did - Create your own interactive piece using images and either keyboard or mouse input. Be ready to share!
 2. We will discuss some ideas for your final projects for the class.
 3. Review the lecture pdf and video above.
-4. Can you try to load a new 3D OBJ file into the sketch editor? Look through some files that are CC0 (creative commons zero) on sketchfab. You will need to create a username to download files. Try to[ download one from Sketchfab](https://sketchfab.com/3d-models?features=downloadable&licenses=7c23a1ba438d4306920229c12afcb5f9&sort_by=-likeCount&cursor=cD00MTM%3D) and import it into your sketch.
+4. Can you try to load a new 3D OBJ file into the sketch editor? You can either use this [teapot obj](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/teapot.obj.zip) that we cover in the video, or you can look through some files that are CC0 (creative commons zero) on sketchfab. You will need to create a username to download files. Try to[ download one from Sketchfab](https://sketchfab.com/3d-models?features=downloadable&licenses=7c23a1ba438d4306920229c12afcb5f9&sort_by=-likeCount&cursor=cD00MTM%3D) and import it into your sketch. If you want to explore 3D further, try to play around with different textures such as [this globe texture](http://creativecoding.danne.design/wp-content/uploads/sites/9/2020/04/world32k.jpg).
 
 ### Homework 
 
-1. **Suggested** Reading: pages 525 – 544 in Processing, by Casey Reas and Ben Fry.
+1. **Suggested Reading**: pages 525 – 544 in Processing, by Casey Reas and Ben Fry.
 2. Update your in-class sketch and do more 3D manipulations in p5js.
 3. Come up with an idea for your final project and be prepared to share it on Slack next week. It must use the draw loop and incorporate motion, interaction and/or audio, beyond that the concept can be anything you want it to be.
 4. Watch [Week 12's Video](https://youtu.be/Iep6ZWtf4o8?si=ahyCi3-_mmRIYBFe) and review [lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week12.pdf) for Week 12.
