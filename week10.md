@@ -35,7 +35,7 @@ By the end of the week, please cover these coding examples and helpful links:
 ### Homework 
 
 1. **Suggested** Reading: pages 95 – 97, 223 – 235, 315 – 324 and 337 – 364 in Processing, by Casey Reas and Ben Fry.
-2. Use what we learned in class to produce an interactive piece using images and either keyboard input or mouse input.
+2. Use what we learned in class to produce an interactive piece using images and either keyboard input or mouse input. **You must show that you can use an image in your sketch**.
 3. Share your sketch on Slack next class period.
 4. Watch the [video](https://youtu.be/QUzYU7TF8CY) and review [lecture slides for Week 11](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week11.pdf).
 
