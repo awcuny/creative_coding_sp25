@@ -10,6 +10,7 @@ We are meeting over Slack this week.
 This week, our focus remains on interaction, with a particular emphasis on keyboard and click events. Additionally, we'll delve into the history of keyboards to understand their evolution. Later, we'll pivot our attention to importing digital images into p5.js and explore the distinctions between film and digital photography.
 - [Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week10.pdf)
 - [Lecture Video on YouTube](https://youtu.be/gxZFk7M6kNo?si=Kfmrt2CuvoHCJAWa)
+- [Lecture video 2 on YouTube](https://youtu.be/FRKfLlHS6gA?si=X9C7OhhY3TnaPpss)
 
 By the end of the week, please cover these coding examples and helpful links:
 
