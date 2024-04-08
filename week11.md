@@ -33,6 +33,25 @@ By the end of the week, please cover these coding examples and helpful links:
 1. **Suggested Reading**: pages 525 – 544 in Processing, by Casey Reas and Ben Fry.
 2. Update your in-class sketch and do more 3D manipulations in p5js.
 3. Come up with an idea for your final project and be prepared to share it on Slack next week. It must use the draw loop and incorporate motion, interaction and/or audio, beyond that the concept can be anything you want it to be.
-4. Watch [Week 12's Video](https://youtu.be/Iep6ZWtf4o8?si=ahyCi3-_mmRIYBFe) and review [lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week12.pdf) for Week 12.
+5. Watch [Week 12's Video](https://youtu.be/Iep6ZWtf4o8?si=ahyCi3-_mmRIYBFe) and review [lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week12.pdf) for Week 12.
+
+### Final Project ###
+
+1. **Design an interactive project using p5.js for your final** due on week 14, May 7, 2024. You may choose to design an interactive sketch for one of the following topics:
+- An interactive art generator.
+- A choose your own adventure story
+- A simple game
+- Animated data visualizations using charts and graphs
+- A music visualizer
+- An interactive map
+- A virtual musical instrument
+- A filter for images
+
+2. You must follow every instruction listed or else we will deduct points.
+- This is more a design challenge than a coding challenge. I am looking to see what you can do with the forms, shapes, and colors of your projects as well as how you allow interaction with them. I am less interested in how your code works and will be happy to help you optimize it.
+- Please use as many programming techniques covered so far this semester. Including for loops, logic checks, classes and using libraries such as dat.GUI or p5 sound.
+
+3. Other than that, you have the creative freedom to design anything you wish. Enjoy the process and let your creativity shine!
+4. Be prepared to share your designs and code with the class during our next class - we will be meeting over Zoom.
 
 [back](./)
