@@ -24,6 +24,19 @@ By the end of the week, please cover these coding examples and helpful links:
 - [Oscillator](https://editor.p5js.org/dannewoo/sketches/dweiLLdoR)
 - [Mic and Audio In](https://editor.p5js.org/dannewoo/sketches/4jAhcqMff)
 - [Audio Visualization Example](https://editor.p5js.org/dannewoo/sketches/yjaFzXQEQ)
+
+### Helpful Links ###
+
+- [FFT Analysis](http://en.wikipedia.org/wiki/Fast_Fourier_transform)
+- [Robert Hodgin](http://roberthodgin.com/)
+- [Patatap](http://www.patatap.com/)
+- [Mikutap](https://aidn.jp/mikutap/)
+- [Listen to Wikipedia](http://listen.hatnote.com/)
+- [Alexander Chen](http://www.chenalexander.com/)
+- [Beet Box](https://vimeo.com/55658574)
+- [RFID Beat Box](https://vimeo.com/33581984)
+- [Light Hum](https://vimeo.com/55479816)
+- [American Stringed Instruments](http://dannewoo.com/old-website/americanstringedinstruments/)
   
 ### In Class
 1. We will review the homework you did - Final project ideas
