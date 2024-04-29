@@ -22,8 +22,8 @@ Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu 
 - Week 12, April 16
 - Spring Recess, April 23 (no class)
 - Week 13, April 30
-- Week 14, May 7, Live Zoom Call
-- Reading Day, May 14 (no class)
+- Week 14, May 7, ~~Live Zoom Call~~ We will meet asynchronously on Slack
+- Reading Day, May 14 (no class) Submit your finals! Everything is due on this date.
 
 ### Course Description
 The computer is an amazing tool that most designers really do not use to its full potential. The software applications that are used by the masses are just that, created for the masses and are not perfect for every project. In this class we will be looking at using computational algorithms as a tool to create beautifully designed visual graphics.
