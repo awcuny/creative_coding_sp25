@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 12: Sound
+# Week 13: Computer Vision
 
 We are meeting over Slack this week.
 
