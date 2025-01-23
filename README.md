@@ -8,22 +8,25 @@ Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu 
 
 ### Class Schedule
 
-- Week 1, January 30, [Live Zoom Call](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
-- Week 2, February 6
-- Week 3, February 13
-- Week 4, February 20
-- Week 5, February 27
-- Week 6, March 5
-- Week 7, March 12, [Live Zoom Call](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
-- Week 8, March 19
-- Week 9, March 26
-- Week 10, April 2
-- Week 11, April 9
-- Week 12, April 16
-- Spring Recess, April 23 (no class)
-- Week 13, April 30
-- Week 14, May 7, Live Zoom Call
-- Reading Day, May 14 (no class)
+Tuesdays, 10 am - 1:50 pm
+
+- Week 1, January 28, [Live Zoom Call](link)
+- Week 2, February 4
+- Week 3, February 11
+- Week 4, February 18
+- February 25 No class - classes follow a Monday schedule.
+- Week 5, March 4
+- Week 6, March 11
+- Week 7, March 18, Midterms, Live Zoom Call
+- Week 8, March 25
+- Week 9, April 1
+- Week 10, April 8
+- Spring Recess, April 12-20 (no class on April 15)
+- Week 11, April 22
+- Week 12, April 29
+- Week 13, May 6
+- Week 14, May 13, Finals, Live Zoom Call
+- Reading Day, May 20 (no class)
 
 ### Course Description
 The computer is an amazing tool that most designers really do not use to its full potential. The software applications that are used by the masses are just that, created for the masses and are not perfect for every project. In this class we will be looking at using computational algorithms as a tool to create beautifully designed visual graphics.
