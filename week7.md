@@ -10,16 +10,7 @@ We are meeting live on zoom this week.
 This week, you will present what you got done on your midterms and have some time to make any changes from our feedback. No lecture.
 
 ### Zoom Link
-Antonius Wiriadjaja is inviting you to a scheduled Zoom meeting.
-
-Topic: Creative Coding: Week 7 - Midterms
-Time: Mar 12, 2024 10:00 AM Eastern Time (US and Canada)
-
-Join Zoom Meeting
-[https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09](https://us02web.zoom.us/j/86473546141?pwd=RlJWZ0dBSVk5cnNSQzlUZEdRM25xUT09)
-
-Meeting ID: 864 7354 6141
-Passcode: 336691
+I will update this with the zoom link when we get closer to midterms
 
 
 
