@@ -14,27 +14,27 @@ sidebar:
     link: ./week1
   - name: Week 02 - Forms, Shapes and Variables
     link: ./week2
-  - name: Week 03 - Computational Color and Export
-    link: ./week3
-  - name: Week 04 - Repetition, Decisions and Randomization
-    link: ./week4
-  - name: Week 05 - Functions, Classes and Typography
-    link: ./week5
-  - name: Week 06 - Data Visualization
-    link: ./week6
-  - name: Week 07 - Midterms
-    link: ./week7
-  - name: Week 08 - Kinetic Forms
-    link: ./week8
-  - name: Week 09 - Drawing and Interaction (Mouse)
-    link: ./week9
-  - name: Week 10 - Interaction and Image Import (Keyboard and Events)
-    link: ./week10
-  - name: Week 11 - 3D
-    link: ./week11
-  - name: Week 12 - Sound
-    link: ./week12
-  - name: Week 13 - Computer Vision
-    link: ./week13
-  - name: Week 14 - Finals
-    link: ./week14
+#  - name: Week 03 - Computational Color and Export
+#    link: ./week3
+#  - name: Week 04 - Repetition, Decisions and Randomization
+#    link: ./week4
+#  - name: Week 05 - Functions, Classes and Typography
+#    link: ./week5
+#  - name: Week 06 - Data Visualization
+#    link: ./week6
+#  - name: Week 07 - Midterms
+#    link: ./week7
+#  - name: Week 08 - Kinetic Forms
+#    link: ./week8
+#  - name: Week 09 - Drawing and Interaction (Mouse)
+#    link: ./week9
+#  - name: Week 10 - Interaction and Image Import (Keyboard and Events)
+#    link: ./week10
+#  - name: Week 11 - 3D
+#    link: ./week11
+#  - name: Week 12 - Sound
+#    link: ./week12
+#  - name: Week 13 - Computer Vision
+#    link: ./week13
+#  - name: Week 14 - Finals
+#    link: ./week14
