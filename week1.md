@@ -9,8 +9,6 @@ Class zoom link will be emailed to your email account.
 ### Lecture
 For our first class, we will go over a brief history of computer programming, how programming has been used as an artistic medium in the past, and introduce you to [p5js](https://p5js.org/) which is the framework we will be using in this class.
 
-[Recording of Lecture](https://www.dropbox.com/scl/fi/k50hu9o6gcdfp12z1umvj/creativeCodingWeek1.mp4?rlkey=0w81zq1gunvdjt2b3zurhkrcl&dl=0)
-
 [Our first Coding Example](https://editor.p5js.org/awcuny/sketches/yEZxJ-DV1)
 
 ### Resources
