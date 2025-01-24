@@ -5,8 +5,8 @@
 Instructor: Antonius Wiriadjaja
 Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu ) 
 
-[YouTube Channel](https://www.youtube.com/playlist?list=PLKcBOqBHPjvmqJ7xym6wMWCTyDyFTtYV5)
-[Slack Channel](https://qc-design.slack.com/archives/C089TKNP9AT)
+- [YouTube Channel](https://www.youtube.com/playlist?list=PLKcBOqBHPjvmqJ7xym6wMWCTyDyFTtYV5)
+- [Slack Channel](https://qc-design.slack.com/archives/C089TKNP9AT)
 
 ### Class Schedule
 
