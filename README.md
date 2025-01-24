@@ -1,4 +1,5 @@
-# Creative Coding (Online Section)
+# Creative Coding (Online Section) 
+### Spring 2025
 ### DESN 249 - CUNY Queens College
 
 Instructor: Antonius Wiriadjaja
@@ -10,14 +11,14 @@ Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu 
 
 Tuesdays, 10 am - 1:50 pm
 
-- Week 1, January 28, [Live Zoom Call](link)
+- Week 1, January 28, [Live Zoom Call](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1)
 - Week 2, February 4
 - Week 3, February 11
 - Week 4, February 18
 - February 25 No class - classes follow a Monday schedule.
 - Week 5, March 4
 - Week 6, March 11
-- Week 7, March 18, Midterms, Live Zoom Call
+- Week 7, March 18, Midterms, Live Zoom Call (link shared in the future)
 - Week 8, March 25
 - Week 9, April 1
 - Week 10, April 8
@@ -25,7 +26,7 @@ Tuesdays, 10 am - 1:50 pm
 - Week 11, April 22
 - Week 12, April 29
 - Week 13, May 6
-- Week 14, May 13, Finals, Live Zoom Call
+- Week 14, May 13, Finals, Live Zoom Call (link shared in the future)
 - Reading Day, May 20 (no class)
 
 ### Course Description
@@ -52,6 +53,15 @@ This is a hands-on course and regular attendance is necessary for participation.
 - [Learning Processing, by Dan Shiffman](http://www.learningprocessing.com/)
 - [Generative Design, by Hartmut Bohnacker, Benedikt Gross, Julia Laub](http://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770)
 - [Nature of Code, by Dan Shiffman](http://natureofcode.com/)
+
+### AI Policy
+Understanding how and when to use generative AI tools (such as ChatGPT, Gemini, or Claude) is quickly emerging as an important skill for future professions. In fact, it's even built-in to some search engines and even web browsers! To that end, you are welcome to use generative AI tools in this class as long as it aligns with the learning outcomes or goals associated with assignments. You are fully responsible for the information you submit based on a generative AI query (such that it does not violate academic honesty standards, intellectual property laws, or standards of non-public research you are conducting through coursework). Your use of generative AI tools must be properly documented and cited for any work submitted in this course.
+
+In this course, students shall give credit to AI tools whenever used, even if only to generate ideas rather than usable text or illustrations. When using AI tools on assignments, add an appendix showing (a) the entire exchange, highlighting the most relevant sections; (b) a description of precisely which AI tools were used (e.g. ChatGPT private subscription version or DALL-E free version), (c) an explanation of how the AI tools were used (e.g. to generate ideas, turns of phrase, elements of text, long stretches of text, help troubleshoot code, etc.); (d) an account of why AI tools were used (e.g. to save time, to surmount writer’s block, to make non-copyrighted imagery, to translate text, to experiment for fun, etc.). Students shall not use AI tools during in-class examinations, or assignments unless explicitly permitted and instructed. Overall, AI tools should be used wisely and reflectively with an aim to deepen understanding of subject matter.
+
+It is a violation of university policy to misrepresent work that you submit or exchange with your instructor by characterizing it as your own, such as submitting responses to assignments that do not acknowledge the use of generative AI tools. Please feel free to reach out to me with any questions you may have about the use of generative AI tools before submitting any content that has been substantially informed by these tools.
+
+And also - don't forget, you are here to learn. If you rely heavily or completely on these AI tools to do your work for you, please ask yourself why you are enrolled in this course. And be aware that AI is an emerging technology. AI systems can provide helpful information or suggestions, but they are not always reliable or accurate. Students should critically evaluate the sources, methods, and outputs of AI systems. If you have any questions about this policy or if you are unsure whether a particular use of AI is acceptable, please do not hesitate to ask for clarification
 
 ### The criteria for grading is as follows:
 
