@@ -18,7 +18,7 @@ For our first class, we will go over a brief history of computer programming, ho
 4. [p5js Web Editor Demo with Professor Danne Woo](https://www.youtube.com/watch?v=edJKmfNq8Xg)
 
 ### In-Class Assignment
-1. Sign up for Slack
+1. Sign up for [Slack](https://qc-design.slack.com/archives/C089TKNP9AT)
 2. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
 
 ### Homework
