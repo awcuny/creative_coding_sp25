@@ -18,11 +18,11 @@ For our first class, we will go over a brief history of computer programming, ho
 4. [p5js Web Editor Demo with Professor Danne Woo](https://www.youtube.com/watch?v=edJKmfNq8Xg)
 
 ### In-Class Assignment
-1. Sign up for [Slack](https://qc-design.slack.com/archives/C089TKNP9AT)
+1. Sign up for [Slack](https://join.slack.com/t/qc-design/shared_invite/zt-2yizg0w6f-duPWBi2tzxK~DzISt7RDjg)
 2. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
 
 ### Homework
-1. Read through the [Getting Started page on p5js](https://p5js.org/get-started/).
+1. Read through the [Getting Started page on p5js](https://p5js.org/tutorials/setting-up-your-environment/).
 2. Look at some examples on the [p5js examples page](https://p5js.org/examples/).
 3. Post your favorite example on Slack and be prepared to discuss it next week.
 4. Watch Dan Shiffman's video on [Programming with p5js](https://www.youtube.com/watch?v=yPWkPOfnGsw).
