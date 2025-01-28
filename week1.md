@@ -9,7 +9,8 @@ Class zoom link will be emailed to your email account.
 ### Lecture
 For our first class, we will go over a brief history of computer programming, how programming has been used as an artistic medium in the past, and introduce you to [p5js](https://p5js.org/) which is the framework we will be using in this class.
 
-[Our first Coding Example](https://editor.p5js.org/awcuny/sketches/yEZxJ-DV1)
+[Our first Coding Example](https://editor.p5js.org/awcuny/sketches/nLEfzoAqr)
+[Dropbox Link to Zoom Recording](https://www.dropbox.com/scl/fo/c11knegj17z8z079rh1mc/AGOer8BSqRNsU0OCOoRa7kw?rlkey=jcichrhyrkr60taj58un9a3iq&dl=0)
 
 ### Resources
 1. [p5js Editor](http://editor.p5js.org/)
