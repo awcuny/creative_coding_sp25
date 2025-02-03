@@ -73,13 +73,22 @@ Some concepts to learn:
 3. [Check if Mouse is in Circle](https://editor.p5js.org/awcuny/sketches/-INC-cuDk)
 
 ### In-Class Assignment
-1. Look over every link above to read what those functions do.
-2. Sign up for Slack (some of you still haven't done this!)
-3. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
+1. We will go over the examples students shared and discuss them in Slack.
+2. Look over every link above to read what those functions do.
+3. Sign up for Slack if you haven't yet.
+4. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
+
+### In-Class Assignment
+50/100 - student joined Slack
+50/100 - student shared a link to an example on time on Slack before class started and is present during class to explain why this example stood out to them.
 
 ### Homework
 1. Use p5js and the shape functions you learned today to design a movie poster for your favorite film or TV series. You can only use grayscale values and you may not use text.
 2. Have the link to your p5js sketch ready to share on Slack during our next class.
 4. Watch the [video of the Week 3 lecture](https://youtu.be/bF6KY3pBD_o?si=njypUhinrfRr3AZq) and come with questions to our Slack class next week.
+
+### Homework Rubric
+80/100 - student uses p5js and primitive shapes to design a movie poster that uses only grayscale values and does not use text. The student will get points deducted if they use text or color!
+20/100 - student submits the link to their p5js sketch to Slack on time before the next class.
 
 [back](./)
