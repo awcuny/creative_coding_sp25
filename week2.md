@@ -7,6 +7,9 @@ layout: default
 We are meeting over Slack this week.
 
 ### Lecture
+
+**Start by [watching this update video](https://www.loom.com/share/052cbbfb24714658a05d2ec1946b60ea?sid=f4e44ff9-9a22-4aad-b1d5-c783e7f0e837)!**
+
 This week, we'll cover the use of forms in graphic design. We'll explore basic connections between elements like format, shape, position, dimension, and rotation, and how different forms express various emotions. Once we grasp form utilization, we'll move on to hands-on experience, learning to create them using p5js and code.
 
 By the end of the week, please cover these functions and practice with them:
