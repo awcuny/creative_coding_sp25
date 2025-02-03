@@ -70,10 +70,10 @@ Some concepts to learn:
 1. [Programming Design Systems, Chapter Shapes by Rune Madsen](https://programmingdesignsystems.com/shape/custom-shapes/index.html)
 2. [Bezier Curve Game](http://bezier.method.ac/)
 
-### Class Code Examples
-1. [Morph Example but with colors](https://editor.p5js.org/awcuny/sketches/6c2vdtp-J)
-2. [Materials and lighting](https://editor.p5js.org/awcuny/sketches/M1aHR32qo)
-3. [Check if Mouse is in Circle](https://editor.p5js.org/awcuny/sketches/-INC-cuDk)
+[//]: # ### Class Code Examples
+[//]: # 1. [Morph Example but with colors](https://editor.p5js.org/awcuny/sketches/6c2vdtp-J)
+[//]: # 2. [Materials and lighting](https://editor.p5js.org/awcuny/sketches/M1aHR32qo)
+[//]: # 3. [Check if Mouse is in Circle](https://editor.p5js.org/awcuny/sketches/-INC-cuDk)
 
 ### In-Class Assignment
 1. We will go over the examples students shared and discuss them in Slack.
