@@ -58,6 +58,7 @@ Some concepts to learn:
 - Function - In JavaScript, a function is a block of reusable code that performs a specific task. Functions allow you to break down your program into smaller, manageable pieces, making your code more organized and easier to understand. 
 - Variable - In programming, a variable is a container or symbolic name for a value that can change during the execution of a program. It is a fundamental concept in coding, allowing developers to store and manipulate data. 
 - Loop - In programming, a loop is a structure that allows a set of instructions to be repeated multiple times. It's a fundamental concept that helps automate repetitive tasks. In p5js, draw is a loop that repeats endlessly unless you change the default function settings.
+- console log - you can find the location of x and y by using the console! Here's [a video that shows you how](https://www.loom.com/share/5df893b46b984105b9023473f36830a4?sid=a14dbe06-7e4c-4616-b97c-92f49707ffe9), and [a sketch ](https://editor.p5js.org/awcuny/sketches/XrWAClMfB)that you can look over to see how you can do it yourself.
 
 ### Resources
 1. [p5js Editor](http://editor.p5js.org/)
