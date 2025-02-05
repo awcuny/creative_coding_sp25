@@ -15,8 +15,8 @@ Tuesdays, 10 am - 1:50 pm
 - Week 1, January 28, [Live Zoom Call](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1)
 - Week 2, February 4
 - Week 3, February 11
-- Week 4, February 18
-- February 25 No class - classes follow a Monday schedule.
+- February 18 No class - classes follow a Monday schedule.
+- Week 4, February 25 
 - Week 5, March 4
 - Week 6, March 11
 - Week 7, March 18, Midterms, Live Zoom Call (link shared in the future)
