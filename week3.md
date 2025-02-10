@@ -53,13 +53,6 @@ By the end of the week, please cover these color coding examples and functions:
 2. Duplicate your sketch and add color to your posters. Play around with different color schemes.
 3. Share your new creation to the class.
 
-### In Class Coding Examples
-1. [A spiral](https://editor.p5js.org/awcuny/sketches/-6q_V2Sx0) using the Archimedean spiral formula
-2. A sketch that shows [a grid and where your mouse is](https://editor.p5js.org/awcuny/sketches/FHjleoh7Q)
-3. This is an example of how to code [a gradient for a background](https://editor.p5js.org/awcuny/sketches/dc_qJe6V3)
-4. Based on Sunbul's homework, how to [write your own function](https://editor.p5js.org/awcuny/sketches/NzW1pKmhP).
-5. A more in depth exploration of [the rotate function](https://editor.p5js.org/awcuny/sketches/M2AGCDX0a).
-
 ### Homework
 1. Read the chapter on color on [www.programmingdesignsystems.com](https://www.programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html#a-short-history-of-color-theory-xZzRFOZ)
 2. Suggested Reading: Pages 85 – 93 in Processing, by Casey Reas and Ben Fry.
