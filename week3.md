@@ -6,7 +6,10 @@ layout: default
 
 We are meeting over Slack this week.
 
-Please watch the update video [after class begins](https://www.loom.com/share/fa30dae1f78e48ada33fbb6d357627d1?sid=241b821b-1e29-4e72-beb9-c8d475d801f7)
+Please watch the update videos: 
+- [after class begins](https://www.loom.com/share/fa30dae1f78e48ada33fbb6d357627d1?sid=241b821b-1e29-4e72-beb9-c8d475d801f7)
+- [middle of class](https://www.loom.com/share/c9ebea6128864ee894967462d5484528?sid=9a1eba03-abf9-4a65-896b-8fcc04f439eb)
+- [end of class](https://www.loom.com/share/b7367d804d5b4fc69ef38d5ea9cc0ab5?sid=e7e0a1f6-c9e3-4847-aa2a-10f4aa24b01f)
 
 ### Lecture
 This week, we will be talking about color theory for the visual arts. How colors interact with each other and traditional color schemes that have been proven to work well. What moods different colors represent. And of course how to create all of these colors using p5js. We will also be covering how to export an image and an SVG from p5js.
@@ -49,6 +52,11 @@ By the end of the week, please cover these color coding examples and functions:
 - [Color Theory Game](https://color.method.ac/)
 - [Coding Train Modulo Explanation](https://www.youtube.com/watch?v=r5Iy3v1co0A)
 - [p5 SVG Library](https://github.com/zenozeng/p5.js-svg/)
+
+### Links to Artists who draw with code
+- [Emily Xie](https://emilyxie.art/)
+- [James Merrill](https://lostpixels.io/)
+- [Francoise Gamma](https://francoisegamma.cat/)
 
 ### In Class
 1. We will review the posters you designed for this week as homework and give each other feedback.
