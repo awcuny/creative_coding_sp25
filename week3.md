@@ -56,7 +56,7 @@ By the end of the week, please cover these color coding examples and functions:
 3. Share your new creation to the class.
 
 ### In Class Rubric
-- 80/100 - Student shared a link to their p5js sketch and is present during class to explain their process and ask / answer questions
+- 80/100 - Student shared links to their p5js sketches and is present during class to explain their process and ask / answer questions
 - 20/100 - Student offered feedback to fellow students publicly in the Slack
 
 ### Homework
