@@ -55,6 +55,10 @@ By the end of the week, please cover these color coding examples and functions:
 2. Duplicate your sketch and add color to your posters. Play around with different color schemes.
 3. Share your new creation to the class.
 
+### In Class Rubric
+- 80/100 - Student shared a link to their p5js sketch and is present during class to explain their process and ask / answer questions
+- 20/100 - Student offered feedback to fellow students publicly in the Slack
+
 ### Homework
 1. Read the chapter on color on [www.programmingdesignsystems.com](https://www.programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html#a-short-history-of-color-theory-xZzRFOZ)
 2. Suggested Reading: Pages 85 – 93 in Processing, by Casey Reas and Ben Fry.
@@ -62,4 +66,8 @@ By the end of the week, please cover these color coding examples and functions:
 4. Be prepared to share your poster designs with the class on Slack next week.
 5. Watch the lecture video for [Week 4](https://youtu.be/DLRXAg9f_Lk?si=000SVEXl1MRNHJI5) and come to class with questions.
 
+### Homework Rubric
+- 80 / 100  - Student used p5js to design a poster to represent themselves with color.
+- 20 / 100 - Student submits the link to their p5js sketch to Slack on time before the next class.
+- 
 [back](./)
