@@ -9,7 +9,7 @@ We are meeting over Slack this week.
 Please watch the update video [after class begins](https://www.loom.com/share/fa30dae1f78e48ada33fbb6d357627d1?sid=241b821b-1e29-4e72-beb9-c8d475d801f7)
 
 ### Lecture
-This week, we will be talking about color theory for the visual arts. How colors interact with each other and traditional color schemes that have been proven to work well. What moods different colors represent. And of course how to create all of these colors using p5js. We will also be covering how to export a image and a SVG from p5js.
+This week, we will be talking about color theory for the visual arts. How colors interact with each other and traditional color schemes that have been proven to work well. What moods different colors represent. And of course how to create all of these colors using p5js. We will also be covering how to export an image and an SVG from p5js.
 
 By the end of the week, please cover these color coding examples and functions:
 
