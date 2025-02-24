@@ -17,7 +17,7 @@ By the end of the week, please cover these coding examples and functions:
 
 ### Methods and Functions Discussed
 **Repetition** –
-- [for loop](https://p5js.org/reference/#/p5/for)
+- [for loop](https://p5js.org/reference/p5/for/)
 - [++](https://processing.org/reference/increment.html)
 - [--](https://processing.org/reference/decrement.html)
 - [+=](https://processing.org/reference/addassign.html)
@@ -25,20 +25,20 @@ By the end of the week, please cover these coding examples and functions:
 - [*=](https://processing.org/reference/multiplyassign.html)
 - [/=](https://processing.org/reference/divideassign.html)
 - [ceil()](https://p5js.org/reference/#/p5/ceil)
-- [floor()](https://p5js.org/reference/#/p5/floor)
-- [round()](https://p5js.org/reference/#/p5/round)
-- [min()](https://p5js.org/reference/#/p5/min)
-- [max()](https://p5js.org/reference/#/p5/max)
-- [sin()](https://p5js.org/reference/#/p5/sin)
-- [cos()](https://p5js.org/reference/#/p5/cos)
+- [floor()](https://p5js.org/reference/p5/floor/)
+- [round()](https://p5js.org/reference/p5/round/)
+- [min()](https://p5js.org/reference/p5/min/)
+- [max()](https://p5js.org/reference/p5/max/)
+- [sin()](https://p5js.org/reference/p5/sin/)
+- [cos()](https://p5js.org/reference/p5/cos/)
 
 **Decisions**
-- [if](https://p5js.org/reference/#/p5/if-else)
-- [else](https://p5js.org/reference/#/p5/if-else)
-- [>](https://p5js.org/reference/#/p5/%3E)
-- [<](https://p5js.org/reference/#/p5/%3C)
-- [>=](https://p5js.org/reference/#/p5/%3E=)
-- [<=](https://p5js.org/reference/#/p5/%3C=)
+- [if](https://p5js.org/reference/p5/if-else/)
+- [else](https://p5js.org/reference/#/p5/if-else/)
+- [>](https://p5js.org/reference/p5/%3E/)
+- [<](https://p5js.org/reference/p5/%3C/)
+- [>=](https://p5js.org/reference/p5/%3E=/)
+- [<=](https://p5js.org/reference/p5/%3C=/)
 - [==](https://processing.org/reference/equality.html)
 - [!=](https://processing.org/reference/inequality.html)
 - [logical OR](https://processing.org/reference/logicalOR.html)
@@ -46,10 +46,10 @@ By the end of the week, please cover these coding examples and functions:
 - [!](https://processing.org/reference/logicalNOT.html)
 
 **Randomization**
-- [random()](https://p5js.org/reference/#/p5/random)
-- [noise()](https://p5js.org/reference/#/p5/noise)
-- [noiseSeed()](https://p5js.org/reference/#/p5/noiseseed)
-- [noiseDetail()](https://p5js.org/reference/#/p5/noisedetail)
+- [random()](https://p5js.org/reference/p5/random/)
+- [noise()](https://p5js.org/reference/p5/noise/)
+- [noiseSeed()](https://p5js.org/reference/p5/noiseseed/)
+- [noiseDetail()](https://p5js.org/reference/p5/noisedetail/)
 
 ### Coding Examples
 - [For Loop](https://editor.p5js.org/dannewoo/sketches/2HQ3T-cRr)
@@ -81,12 +81,6 @@ Professor Christopher Hanusa shares his math inspired artwork and talks about th
 1. We will review the selfies in code that you made for your homework.
 2. Take the Sol Lewitt description below. Using a for loop and if statements create a design in p5js based on the instructions: "Six white geometric figures (outlines) superimposed on a black wall."
 3. Share your new creation to the class.
-
-### In Class Coding Examples
-1. [Rotating Hearts Debug Dejah](https://editor.p5js.org/awcuny/sketches/phOUsqz-z)
-2. [Debug Lin Fang](https://editor.p5js.org/awcuny/sketches/2lTjcfzwP)
-3. [Debug Siliang](https://editor.p5js.org/awcuny/sketches/IasCGoj-c)
-4. [Sin and Cos polygons closed](https://editor.p5js.org/awcuny/sketches/CG8tdNHIb)
 
 ### Homework
 1. Use p5js to design a pattern for gift wrapping paper. You must use a **for loop, if statements, and either the random or noise function.**  
