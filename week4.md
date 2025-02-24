@@ -84,9 +84,17 @@ Professor Christopher Hanusa shares his math inspired artwork and talks about th
 2. Take the Sol Lewitt description below. Using a for loop and if statements create a design in p5js based on the instructions: "Six white geometric figures (outlines) superimposed on a black wall."
 3. Share your new creation to the class.
 
+### In Class Rubric
+- 80/100 - Student shared links to their p5js sketches and is present during class to explain their process and ask / answer questions
+- 20/100 - Student offered feedback to fellow students publicly in the Slack
+
 ### Homework
 1. Use p5js to design a pattern for gift wrapping paper. You must use a **for loop, if statements, and either the random or noise function.**  
 2. Be prepared to share your looping designs with the class on Slack next week.
 3. Watch the lecture video for [Week 5](https://youtu.be/JxMa1Nt_5bQ?si=acRlEClfinWo_wcT) on Functions, Classes, and Typography.
+
+### Homework Rubric
+- 80 / 100 - Student used p5js to design a pattern for gift wrapping paper.
+- 20 / 100 - Student submits the link to their p5js sketch to Slack on time before the next class.
 
 [back](./)
