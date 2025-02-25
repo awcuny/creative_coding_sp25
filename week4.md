@@ -82,7 +82,14 @@ Professor Christopher Hanusa shares his math inspired artwork and talks about th
 ### In Class
 1. We will review the selfies in code that you made for your homework.
 2. Take the Sol Lewitt description below. Using a for loop and if statements create a design in p5js based on the instructions: "Six white geometric figures (outlines) superimposed on a black wall."
-3. Share your new creation to the class.
+4. Share your new creation to the class.
+
+To help you with your classwork, you can check out these resources on Sol Lewitt:
+
+- [Public Delivery: Why are Sol LeWitt’s wall drawings so influential?
+](https://publicdelivery.org/sol-lewitt-wall-drawings/)
+- [Arts for Transit: Sol LeWitt’s Swirling Rainbow at Columbus Circle](http://www.artsobserver.com/2011/09/16/arts-for-transit-a-sol-lewitt-rainbow-at-columbus-circle/)
+- [Using ChatGPT to implement Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
 
 ### In Class Rubric
 - 80/100 - Student shared links to their p5js sketches and is present during class to explain their process and ask / answer questions
