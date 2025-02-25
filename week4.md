@@ -12,7 +12,7 @@ This week, we will discuss repetition and patterns in nature and art, and how to
 ### Lecture Slides and extra videos
 - [Prof Danne Woo's Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week04.pdf)
 - [Prof. Antonius W's JavaScript Logic Addendum](https://docs.google.com/presentation/d/16I28UfhgwojjMt64t4LPptjOdL4H-j39O3EW1yLE_fk/edit?usp=sharing)
-- [Prof Antonius W's If Statement Loom Video](https://www.loom.com/share/362e7f1838b74505a21dc54eb0a8558f?sid=53327bcf-0bdb-4403-baae-f259a3353891)
+- [Prof Antonius W's If Statement Loom Video](https://www.loom.com/share/b72c42cd43a34db9842716e674af6112?sid=4b0a9b73-3daf-4d70-a93d-63f8a02f3cee)
 - [Prof Antonius W's If Statement Sketch](https://editor.p5js.org/awcuny/sketches/fu58-dFT9)
 
 By the end of the week, please cover these coding examples and functions:
