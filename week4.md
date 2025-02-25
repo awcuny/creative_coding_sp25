@@ -79,6 +79,16 @@ Professor Christopher Hanusa shares his math inspired artwork and talks about th
 
 - [Professor Christopher Hanusa, Math + Art](https://www.youtube.com/watch?v=1vtDsNh6G8w)
 
+### In Class Code Examples
+- [If Else Statements within If Else Statements based on Ally's code](https://www.loom.com/share/4d9c86f0365a4ec6aa54bb520ff58e8d?sid=f753d429-3655-45e0-8c02-e1bba8fecd0c)
+- [If Else Within If Else Code](https://editor.p5js.org/awcuny/sketches/DG90iIrOdp)
+- [Explaining For Loops with Ellipses based on Jess's code](https://www.loom.com/share/2f34f83a73544e60809ef012bf4595d9?sid=1ab826b3-a768-4b86-96fc-c91b3fcbbc73)
+- [For Loops with Ellipses Code](https://editor.p5js.org/awcuny/sketches/_s0tuOqNm)
+- [Arrays and For Loops Example based on Labiba's code](https://www.loom.com/share/35ca20b525d94b8daabd15ae83f21262?sid=6963081b-a012-4898-8b45-b5579aaccf35)
+- [Arrays and For Loops Code](https://editor.p5js.org/awcuny/sketches/_s0tuOqNm)
+- [Sin Waves or Noise based on Grace's Code](https://www.loom.com/share/e6f1f54fb1e54fd88432e33ff3776dd6?sid=5c9b32b4-b9ed-4b84-93b5-407116154dec)
+- [Sin Waves or Noise Code](https://editor.p5js.org/awcuny/sketches/rfQJox_74)
+
 ### In Class
 1. We will review the selfies in code that you made for your homework.
 2. Take the Sol Lewitt description below. Using a for loop and if statements create a design in p5js based on the instructions: "Six white geometric figures (outlines) superimposed on a black wall."
