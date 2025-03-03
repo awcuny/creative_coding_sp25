@@ -38,7 +38,7 @@ By the end of the week, please cover these coding examples and helpful links:
 
 ### In Class Coding Examples
 - [Creating a triangle](https://editor.p5js.org/awcuny/sketches/fU42-KBa6)
-- [Randomizing a triangle location and angle](https://editor.p5js.org/awcuny/full/wVizUejvp)
+- [Randomizing a triangle location and angle](https://editor.p5js.org/awcuny/sketches/wVizUejvp)
 - [P5 Font](https://editor.p5js.org/awcuny/sketches/QiRuhAhP6)
 - [Check if the mouse is inside a rectangle](https://editor.p5js.org/awcuny/sketches/aOEoQI1wu)
 - [Push and Pop example](https://editor.p5js.org/awcuny/sketches/7_V-BDDQo)
