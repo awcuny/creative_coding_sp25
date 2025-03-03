@@ -9,6 +9,8 @@ We are meeting over Slack this week.
 ### Lecture
 This week's lecture will delve into the fundamentals of functions and classes, exploring how you can create your own. We'll embark on a journey through the evolution of written language, from the inception of movable type to modern computing. Additionally, we'll examine various font types and their appropriate usage, exploring both computational typefaces and artistic letterforms. Finally, we'll cover the essentials of typography in p5js, including rule-based typography generation through code, and the creation of custom fonts by modifying existing typefaces using the [p5.Fonts](https://p5js.org/reference/p5/p5.Font/) class for p5js.
 
+- [Prof Antonius's Loom Video for the week](https://www.loom.com/share/a39d2f3c35594ac8ab5a7823c565be01?sid=dad30aa4-3d0e-41a3-9df5-9819335af0f9)
+
 ### Lecture Slides
 - [Prof Danne Woo's Lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week05.pdf)
 
