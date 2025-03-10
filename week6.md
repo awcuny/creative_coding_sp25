@@ -90,4 +90,10 @@ var numbers = [
 3. Other than that, you have the creative freedom to design anything you wish. Enjoy the process and let your creativity shine!
 4. Be prepared to share your designs and code with the class during our next class - we will be meeting over Zoom.
 
+### Midterm Rubric
+
+- 40 / 100 - Student demonstrated exceptional design skills in their midterm project.
+- 40 / 100 - Student excelled in their coding tasks
+- 20 / 100 - Student presented their work to their peers.
+
 [back](./)
