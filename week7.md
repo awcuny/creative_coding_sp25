@@ -4,15 +4,13 @@ layout: default
 
 # Week 07: Midterms
 
-We are meeting live on zoom this week.
+We are meeting [Live on Zoom](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1) this week.
 
 ### Lecture
 This week, you will present what you got done on your midterms and have some time to make any changes from our feedback. No lecture.
 
 ### Zoom Link
-I will update this with the zoom link when we get closer to midterms
-
-
+[Live Zoom Call](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1)
 
 ### Homework
 1. Make any final changes on your midterm and submit on Slack before the end of the class.
