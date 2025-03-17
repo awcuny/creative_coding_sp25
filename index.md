@@ -19,7 +19,7 @@ Tuesdays, 10 am - 1:50 pm
 - Week 4, February 25 
 - Week 5, March 4
 - Week 6, March 11
-- Week 7, March 18, Midterms, Live Zoom Call (link shared in the future)
+- Week 7, March 18, Midterms, [Live Zoom Call](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1)
 - Week 8, March 25
 - Week 9, April 1
 - Week 10, April 8
