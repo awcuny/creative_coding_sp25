@@ -28,11 +28,18 @@ By the end of the week, please cover these coding examples and helpful links:
 1. We will discuss [Rune Madsen's article on Meta-Design](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/).
 2. Please design an abstract clock with hours, minutes and seconds using p5js.
 
+### In Class Rubric
+- 80/100 - Student shared a link to their p5js of an abstract clock.
+- 20/100 - Student was present and engaged during discussion of what the role of designer is becoming.
+
 ### Homework 
 
-1. Suggested Reading: pages 173 – 178 and 245 – 249 in Processing by Casey Reas and Ben Fry.
 2. Choose one of your static designs from the last 7 weeks and use the draw loop to add some motion to it.
 3. Post your sketch to the Slack channel before our next class.
 4. Go through the lecture slides for [Week 9](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week09.pdf) and watch [the video](https://youtu.be/IKFoGM6bau8?si=wn2E-91MPKuwPMMz). Come to class next week with any questions about mouse interactions and creating brushes.
+
+### Homework Rubric
+- 80 / 100 - Student used p5js to update their static design into an animated loop.
+- 20 / 100 - Student submits the link to their p5js sketch to Slack on time before the next class.
 
 [back](./)
