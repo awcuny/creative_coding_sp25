@@ -37,11 +37,19 @@ By the end of the week, please cover these coding examples and helpful links:
 3. [mouseIsPressed](https://editor.p5js.org/awcuny/sketches/CjAZ2E-J6)
 4. [pmouseX and pmouseY](https://editor.p5js.org/awcuny/sketches/axsHiJinE)
 
+### In Class Rubric
+- 80/100 - Student shared a link to their p5js of a drawing tool with the mouse.
+- 20/100 - Student was present and engaged during discussion and feedback of each other's work.
+
 ### Homework 
 
 1. **Suggested:** Read pages 205 – 213 and 237 – 243 in Processing, by Casey Reas and Ben Fry.
 2. Create your own custom design software. Have at least two buttons to switch between two features. Different brush styles, colors, movements, etc. Use either the [GUI with Buttons](https://editor.p5js.org/dannewoo/sketches/NGX1I2Fnx) example of the [datGUI Interface](https://editor.p5js.org/dannewoo/sketches/d5B6yd4N3) example as reference. Draw and export an example sketch to show the class next week.
 3. Share your sketch and drawing on Slack next class period.
 4. Watch the videos for [keyboard interaction](https://youtu.be/gxZFk7M6kNo?si=WLtxwHK1wVknrCio) and for [images](https://youtu.be/FRKfLlHS6gA?si=G8HOT5aqw4j7AVAT) and go through the [lecture slides for Week 10](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week10.pdf) and come to class next week with questions.
+   
+### Homework Rubric
+- 80 / 100 - Student used p5js to update their drawing program into one with two buttons to swtich beteween features.
+- 20 / 100 - Student submits the link to their p5js sketch to Slack on time before the next class.
 
 [back](./)
