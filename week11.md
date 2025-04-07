@@ -7,7 +7,7 @@ layout: default
 We are meeting over Slack this week.
 
 ### Lecture
-This week, we will have a brief lecture will cover the history of 3D, providing an overview of various 3D methods and tools. Subsequently, we will delve into implementing 3D using p5.js functions.
+This week, we will have a brief lecture will cover the history of 3D, providing an overview of various 3D methods and tools. Subsequently, we will dive into implementing 3D using p5.js functions.
 
 - [Lecture PDF](https://teaching-files.s3.us-east-2.amazonaws.com/creativecoding/lectures/creativecoding_week11.pdf)
 - [Lecture Video on YouTube](https://youtu.be/QUzYU7TF8CY)
@@ -37,7 +37,7 @@ By the end of the week, please cover these coding examples and helpful links:
 
 ### Final Project ###
 
-1. **Design an interactive project using p5.js for your final** due on week 14, May 7, 2024. You may choose to design an interactive sketch for one of the following topics:
+1. **Design an interactive project using p5.js for your final** due on May 14, 2025. You may choose to design an interactive sketch for one of the following topics:
 - An interactive art generator.
 - A choose your own adventure story
 - A simple game
