@@ -31,7 +31,7 @@ By the end of the week, please cover these coding examples and helpful links:
 
 ### In Class
 1. We will review the homework you did - Create your own custom design software. Have at least two buttons to switch between two features. Different brush styles, colors, movements, etc. Use either the GUI with Buttons example of the datGUI Interface example as reference. Be ready to share!
-2. We will be ending class earlier this week. No other in-class assignment is due. But please review and do your homework for next week!
+2. Happy spring break! We will be ending class earlier this week. No other in-class assignment is due. But please review and do your homework for next week!
 
 ### Homework 
 
