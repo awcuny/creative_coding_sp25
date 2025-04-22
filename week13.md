@@ -39,7 +39,7 @@ Finish up your final project and be prepared to present it in Slack class next w
 
 ### Final Project ###
 
-1. **Design an interactive project using p5.js for your final** due on week 14, May 7, 2024. You may choose to design an interactive sketch for one of the following topics:
+1. **Design an interactive project using p5.js for your final** due on week 14, May 13, 2025. You may choose to design an interactive sketch for one of the following topics:
 - An interactive art generator.
 - A choose your own adventure story
 - A simple game
