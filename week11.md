@@ -37,7 +37,7 @@ By the end of the week, please cover these coding examples and helpful links:
 
 ### Final Project ###
 
-1. **Design an interactive project using p5.js for your final** due on May 14, 2025. You may choose to design an interactive sketch for one of the following topics:
+1. **Design an interactive project using p5.js for your final** due on May 13, 2025. You may choose to design an interactive sketch for one of the following topics:
 - An interactive art generator.
 - A choose your own adventure story
 - A simple game
