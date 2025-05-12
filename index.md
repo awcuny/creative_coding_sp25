@@ -27,7 +27,7 @@ Tuesdays, 10 am - 1:50 pm
 - Week 11, April 22
 - Week 12, April 29
 - Week 13, May 6
-- Week 14, May 13, Finals, Live Zoom Call (link shared in the future)
+- Week 14, May 13, Finals, Live Zoom Call [Live Zoom Call](https://us02web.zoom.us/j/85961439528?pwd=4vaRP5v72K2PbfEAf1jhaHm0jhAVpb.1)
 - Reading Day, May 20 (no class)
 
 ### Course Description
